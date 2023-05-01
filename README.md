@@ -10,11 +10,11 @@ This project lets you play two popular board games, Tic Tac Toe and Connect Four
 
 Features
 
-    Play Tic Tac Toe and Connect Four against an AI opponent.
-    AI uses the Minimax algorithm with Alpha-Beta pruning for Connect Four, and a simple strategy for Tic Tac Toe to provide a challenging gaming experience.
-    Track and store game statistics for both games, including wins, losses, and draws.
-    Visual interface for Connect Four using the Pygame library.
-    Terminal-based interface for Tic Tac Toe.
+- Play Tic Tac Toe and Connect Four against an AI opponent.
+- AI uses the Minimax algorithm with Alpha-Beta pruning for Connect Four, and a simple strategy for Tic Tac Toe to provide a challenging gaming experience.
+- Track and store game statistics for both games, including wins, losses, and draws.
+- Visual interface for Connect Four using the Pygame library.
+- Terminal-based interface for Tic Tac Toe.
 
 Getting Started
 Prerequisites
