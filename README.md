@@ -27,6 +27,16 @@ File Structure
     main.py: The main script that provides a menu to choose between Tic Tac Toe and Connect Four.
     tic_tac_toe_game.py: The Tic Tac Toe game script, including game logic, AI opponent, and a terminal-based interface.
     connect_four.py: The Connect Four game script, featuring game logic, AI opponent using Minimax with Alpha-Beta pruning, and a Pygame-based interface.
+    
+### Resources
+
+    Tkinter documentation: https://docs.python.org/3/library/tkinter.html
+    Python GUI Programming With Tkinter (Real Python): https://realpython.com/python-gui-tkinter/
+    Plotly Python documentation: https://plotly.com/python/
+    Pygame Library: https://www.pygame.org/
+    Minimax Algorithm: https://en.wikipedia.org/wiki/Minimax
+    Numpy: https://numpy.org/
+    Alpha-beta pruning: https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning
 
 ### Contributing
 
